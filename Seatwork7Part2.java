@@ -4,7 +4,7 @@ class PasswordException extends Exception {
   }
 }
 
-public class Seatwork7 {
+public class Seatwork7Part2 {
 
   static voic checkPassword(String password) throws PassowrdException {
     if (password.length()) {
